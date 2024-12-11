@@ -1,0 +1,200 @@
+.Background {
+    width: 650px;
+    height: 700px;
+    background-color: orangered;
+    margin: auto;
+    position: relative;
+}
+
+.Nav {
+    width: 650px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    top:0%;
+    left:0%;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 0px;
+    top: 15px;
+    background-image: url(../images/logogo.jpg);
+    background-size: cover;
+}
+
+.navtitle {
+    color: white;
+    position: relative;
+    left: 3%;
+    top: 40%;
+}
+
+.Home {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 30%;
+    top: 0px;
+    background-color: black;
+    border-color: white;
+    border: 5px;
+    
+}
+
+
+.Ho {
+    color: white;
+    position: relative;
+    left: 30%;
+    top: 18%;
+}
+
+.Episode {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 50%;
+    top: -30px;
+    background-color: black;
+    border-color: white;
+    border: 5px;
+}
+
+.Epi {
+    color: white;
+    position: relative;
+    left: 20%;
+    top: 18%;
+}
+
+.Show {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 70%;
+    top: -60px;
+    background-color: black;
+    border-color: white;
+    border: 5px;
+}
+
+.Sho {
+    color: white;
+    position: relative;
+    left: 30%;
+    top: 18%;
+}
+
+.title {
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+
+.epiback1 {
+    width: 650px;
+    height: 70px;
+    background-color: black;
+    position: absolute;
+    top: 200px;
+}
+
+.listen1 {
+    width: 70px;
+    height: 35px;
+    background-color: white;
+    position: relative;
+    top: 2px;
+    left: 570px;
+}
+
+.l1 {
+    font-size: 13px;
+    position: relative;
+    font-weight: bold;
+    left:3px;
+    top: 25%;
+}
+
+.oct19 {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    left: 4px;
+}
+
+.epiback2 {
+    width: 650px;
+    height: 70px;
+    background-color: black;
+    position: absolute;
+    top: 350px;
+}
+
+.listen2 {
+    width: 70px;
+    height: 35px;
+    background-color: white;
+    position: relative;
+    top: 2px;
+    left: 570px;
+}
+
+.l2 {
+    font-size: 13px;
+    position: relative;
+    font-weight: bold;
+    left:3px;
+    top: 25%;
+}
+
+.oct12 {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    left: 4px;
+}
+
+.epiback3 {
+    width: 650px;
+    height: 70px;
+    background-color: black;
+    position: absolute;
+    top: 500px;
+}
+
+.listen3 {
+    width: 70px;
+    height: 35px;
+    background-color: white;
+    position: absolute;
+    top: 20px;
+    left: 570px;
+}
+
+.l3 {
+    font-size: 13px;
+    position: relative;
+    font-weight: bold;
+    left:3px;
+    top: 25%;
+}
+
+.oct5 {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 25px;
+    left: 4px; 
+}
+
+a {
+    text-decoration: none;
+}
